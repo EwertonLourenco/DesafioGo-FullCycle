@@ -24,10 +24,10 @@ docker build -t <seu-user>/fullcycle .
 
 # Pull 
 ```
-docker pull EwertonLourenco/fullcycle
+docker pull ewertonlourenco/fullcycle
 ```
 
 # Executar o container
 ```
-docker run --rm EwertonLourenco/fullcycle
+docker run --rm ewertonlourenco/fullcycle
 ```
